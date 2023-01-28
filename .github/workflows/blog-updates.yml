@@ -8,8 +8,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v2.0.0
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://learnermap.github.io//feed.xml
+          feed-url: https://learnermap.github.io/feed.xml
           readme-section: posts
           branch: main
