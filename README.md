@@ -8,6 +8,10 @@ Adepto do conceito de _[Lifelong Learning](https://www.alura.com.br/empresas/art
 
 Esse repo bem como o blog, tem como objetivo ser uma espécie de _"mapa do aprendiz"_. :smirk:
 
+## Recent blog posts
+
+<!--START_SECTION:posts-->
+<!--END_SECTION:posts-->
 
 ## Profile status
 
