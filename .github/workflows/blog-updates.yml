@@ -1,3 +1,4 @@
+
 name: Update
 on:
   workflow_dispatch:
@@ -5,14 +6,11 @@ on:
     # Once a day at 7:15AM PST - Blog posts usually scheduled for 7AM, site refreshes at 7:05AM
     - cron: '0 * * * *'
 jobs:
-  build:
-  #update:
+  update:
     runs-on: ubuntu-latest
-    steps:    
-      - uses: JasonEtco/rss-to-readme@v1
+    steps:
+      - uses: JasonEtco/rss-to-readme@v2.0.0
         with:
-          rss-feed-url: https://learnermap.github.io/feed.xml
-          # readme-section: posts
-          file-name: 'README.md'
-          section-title: 'Últimas postagens'          
-          # branch: main
+          feed-url: https://learnermap.github.io//feed.xml
+          readme-section: posts
+          branch: main
