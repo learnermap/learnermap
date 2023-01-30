@@ -18,11 +18,7 @@ Esse repo bem como o blog, tem como objetivo ser uma espécie de _"mapa do apren
 ## Últimos posts
 
 <!--START_SECTION:posts-->
-* [My Example Post](https://learnermap.github.io/2016/05/20/my-example-post.html)
-* [Some articles are just so long they deserve a really long title to see if things will break well](https://learnermap.github.io/misc/2016/05/20/super-long-article.html)
-* [This post demonstrates post content styles](https://learnermap.github.io/junk/2016/05/20/this-post-demonstrates-post-content-styles.html)
-* [Welcome To Jekyll](https://learnermap.github.io/2016/05/20/welcome-to-jekyll.html)
-* [Some articles are just so short that we have to make the footer stick](https://learnermap.github.io/misc/2016/05/19/super-short-article.html)
+* [O início (Post Teste)](https://learnermap.github.io/talk/2023/01/29/o-inicio.html)
 <!--END_SECTION:posts-->
 
 
