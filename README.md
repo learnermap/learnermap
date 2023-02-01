@@ -18,6 +18,7 @@ Esse repo bem como o blog, tem como objetivo ser uma espécie de _"mapa do apren
 ## Últimos posts
 
 <!--START_SECTION:posts-->
+* [Lógica de Programação](https://learnermap.github.io/programming/2023/01/31/logica-de-programacao.html)
 * [My Roadmap](https://learnermap.github.io/talk/2023/01/30/my-roadmap.html)
 * [O início (Post Teste)](https://learnermap.github.io/talk/2023/01/29/o-inicio.html)
 <!--END_SECTION:posts-->
