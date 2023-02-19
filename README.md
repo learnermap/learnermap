@@ -18,6 +18,7 @@ Esse repo bem como o blog, tem como objetivo ser uma espécie de _"mapa do apren
 ## Últimos posts
 
 <!--START_SECTION:posts-->
+* [Aprendendo Git e Github](https://learnermap.github.io/git,/github,/devops/2023/02/18/aprendendo-git-github.html)
 * [Aprendendo HTML/CSS](https://learnermap.github.io/html,/css,/frontend/2023/02/05/aprendendo-html-css.html)
 * [Lógica de Programação](https://learnermap.github.io/programming/2023/01/31/logica-de-programacao.html)
 * [My Roadmap](https://learnermap.github.io/talk/2023/01/30/my-roadmap.html)
